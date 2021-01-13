@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'PT Serif';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/richa/Documents/GitHub/richardcouperthwaite.github.io/fonts/PT Serif/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Serif';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/richa/Documents/GitHub/richardcouperthwaite.github.io/fonts/PT Serif/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Serif';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/richa/Documents/GitHub/richardcouperthwaite.github.io/fonts/PT Serif/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'PT Serif';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/richa/Documents/GitHub/richardcouperthwaite.github.io/fonts/PT Serif/700italic.ttf') format('truetype');
+}
