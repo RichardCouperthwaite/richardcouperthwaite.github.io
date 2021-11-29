@@ -3361,6 +3361,43 @@ section.lazy-placeholder:after {
 .cid-rRhBKQ0ERX P {
   color: #efefef;
 }
+.cid-sQ8AUavxpk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #b2ccd2;
+}
+.cid-sQ8AUavxpk .card-box {
+  background-color: #879a9f;
+  padding: 2rem;
+}
+.cid-sQ8AUavxpk h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sQ8AUavxpk p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sQ8AUavxpk .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sQ8AUavxpk .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sQ8AUavxpk .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-sQ8AUavxpk P {
+  color: #efefef;
+}
 .cid-rRhDYacTqB {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -6369,6 +6406,9 @@ section.lazy-placeholder:after {
   width: 2px;
   height: calc(100% - (16px + 4px) * 2);
   background-color: #efefef;
+}
+.cid-slQhlbfzs1 .mbr-step-text {
+  color: #232323;
 }
 .cid-rSvSVNj2xY {
   padding-top: 15px;
